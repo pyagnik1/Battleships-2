@@ -42,7 +42,8 @@ int main(int argc, const char * argv[]) {
   srand(time(0));
   printf("\n");
   char gameTable[10][10] = {0};
-	
+	//fk
+	int j;
   struct shipStruct allShips[5];
 
 	struct gameStats game;
